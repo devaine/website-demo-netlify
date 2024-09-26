@@ -1,0 +1,13 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0px;
+}
