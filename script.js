@@ -10,13 +10,8 @@ document.body.style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*25
 
 function changeBackground() { 
     //This runs throught the colors array
-    /*if(target===colors.length-1){
-        target=0;
-    }
-    else{
-        target++;
-    }
-    document.body.style.backgroundColor=colors[target];*/
+    //target===colors.length ? target=0 : target++;
+    //document.body.style.backgroundColor=colors[target];
 
     //this chooses a random color
     document.body.style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`;
