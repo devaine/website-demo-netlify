@@ -1,6 +1,6 @@
 # Website Demonstration
 
-## Explanation
+## ❓Explanation
 
 ### Template Folder
 
@@ -10,7 +10,12 @@
 
 - Contains the finished code and files that will be presented within the demo
 
-## Installation
+### Img Folder
+
+- Contains screenshots for the README
+- (ignore this folder for the presentation)
+
+## ⬇️ Installation
 
 1. Click Code
 
