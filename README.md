@@ -4,7 +4,8 @@
 
 ### Template Folder
 
-- Contains just the boilerplate code (just files and setup)
+- Contains just the boilerplate code
+- _(just files and setup)_
 
 ### Final Folder
 
@@ -12,8 +13,8 @@
 
 ### Img Folder
 
-- Contains screenshots for the README
-- (ignore this folder for the presentation)
+- Contains screenshots for the `README.md`
+- _(ignore this folder for the presentation)_
 
 ## ⬇️ Installation
 
